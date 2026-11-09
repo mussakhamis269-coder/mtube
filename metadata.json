@@ -1,0 +1,6 @@
+{
+  "name": "Mtube",
+  "description": "Stream trending music and videos with a sleek dark theme. Watch trending African comedy, listen to trending Bongo Flava and Amapiano tracks, download offline, and like & share.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
